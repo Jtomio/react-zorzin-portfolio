@@ -16,7 +16,7 @@ export default function Contact() {
 
         <div className="flex justify-center items-center">
           <form
-            action="https://formsubmit.co/medriase@gmail.com"
+            action="https://formsubmit.co/zmsignsinfo@gmail.com"
             method="POST"
             className="flex flex-col w-full md:w-1/2"
           >
