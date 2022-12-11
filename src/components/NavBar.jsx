@@ -23,16 +23,16 @@ export default function NavBar() {
           </a>
         </li>
         <li className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:text-green-600 hover:scale-105 duration-200">
-          <a href="mailto:zmsignsinfo@gmail.com" target="_blank">
-            <HiOutlineMail size={30} />
-          </a>
-        </li>
-        <li className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:text-blue-400 hover:scale-105 duration-200">
           <a
             href="https://wa.me/+447935923701?text=Hello!%20I%20would%20like%20a%20quote%20please.%20"
             target="_blank"
           >
             <BsWhatsapp size={30} />
+          </a>
+        </li>
+        <li className="px-4 cursor-pointer capitalize font-medium text-gray-500 hover:text-blue-400 hover:scale-105 duration-200">
+          <a href="mailto:zmsignsinfo@gmail.com" target="_blank">
+            <HiOutlineMail size={30} />
           </a>
         </li>
       </ul>
