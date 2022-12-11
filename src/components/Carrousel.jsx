@@ -3,58 +3,40 @@ import { BsArrowRightSquareFill, BsArrowLeftSquareFill } from "react-icons/bs";
 
 const sliderData = [
   {
-    url: "https://www.instagram.com/p/CfjkbIlI1NO/",
+    url: "https://zorzin-img.vercel.app/assets/project1.png",
   },
   {
-    url: "https://www.instagram.com/p/CdTuqbfoKNe/",
+    url: "https://zorzin-img.vercel.app/assets/project2.png",
   },
   {
-    url: "https://www.instagram.com/p/CaKbVDsI03Z/",
+    url: "https://zorzin-img.vercel.app/assets/project3.png",
   },
   {
-    url: "https://www.instagram.com/p/CaKa5A7InA_/",
+    url: "https://zorzin-img.vercel.app/assets/project4.png",
   },
   {
-    url: "https://www.instagram.com/p/CZW8BmRIfDp/",
+    url: "https://zorzin-img.vercel.app/assets/project5.png",
   },
   {
-    url: "https://www.instagram.com/p/CZUKCB9IH_k/",
+    url: "https://zorzin-img.vercel.app/assets/project6.png",
   },
   {
-    url: "https://www.instagram.com/p/CYeLcH5Ibhk/",
+    url: "https://zorzin-img.vercel.app/assets/project7.png",
   },
   {
-    url: "https://www.instagram.com/p/CT9kWo5oej5/",
+    url: "https://zorzin-img.vercel.app/assets/project8.png",
   },
   {
-    url: "https://www.instagram.com/p/CTsPSIHok1r/",
+    url: "https://zorzin-img.vercel.app/assets/project9.png",
   },
   {
-    url: "https://www.instagram.com/p/CPi3AqrBFZk/",
+    url: "https://zorzin-img.vercel.app/assets/project10.png",
   },
   {
-    url: "https://www.instagram.com/p/CPNkIDIBOhC/",
+    url: "https://zorzin-img.vercel.app/assets/project11.png",
   },
   {
-    url: "https://www.instagram.com/p/CO7-MD2hMl3/",
-  },
-  {
-    url: "https://www.instagram.com/p/COYbSJgJ_8G/",
-  },
-  {
-    url: "https://www.instagram.com/p/COYaheXJ70Z/",
-  },
-  {
-    url: "https://www.instagram.com/p/COYZXr8JQxc/",
-  },
-  {
-    url: "https://www.instagram.com/p/COYZJavJcoU/",
-  },
-  {
-    url: "https://www.instagram.com/p/COYY3gupR4S/",
-  },
-  {
-    url: "https://www.instagram.com/p/COYYgZEpVvF/",
+    url: "https://zorzin-img.vercel.app/assets/project12.png",
   },
 ];
 
